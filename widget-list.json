@@ -331,19 +331,19 @@
     },
     {
       "name": "Tableau croisé dynamique",
-      "url": "https://gristgouv.github.io/gristlabs-widgets/pivottable/index.html",
-      "widgetId": "@gristlabs/widget-pivottable",
+      "url": "https://gristgouv.github.io/TCD-widget/index.html",
+      "widgetId": "@gristgouv/TCD-widget",
       "published": true,
       "accessLevel": "read table",
       "renderAfterReady": true,
       "description": "Construisez un TCD avec la donnée de votre table.",
       "authors": [
         {
-          "name": "jperon",
-          "url": "https://github.com/jperon"
+          "name": "Arthur Panckoucke",
+          "url": "https://github.com/Arthurpanck"
         }
       ],
-      "lastUpdatedAt": "2024-08-18T17:58:38-04:00"
+      "lastUpdatedAt": "2025-05-20T17:58:38-04:00"
     },
     {
       "name": "Print labels",

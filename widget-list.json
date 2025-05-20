@@ -14,7 +14,7 @@
         }
       ],
       "isGristLabsMaintained": false,
-      "lastUpdatedAt": "2024-07-01T17:58:38-04:00"
+      "lastUpdatedAt": "2025-05-02T17:58:38-04:00"
     },
     {
       "name": "Codes collectivités territoriales",
@@ -31,7 +31,7 @@
         }
       ],
       "isGristLabsMaintained": false,
-      "lastUpdatedAt": "2024-01-01T17:58:38-04:00"
+      "lastUpdatedAt": "2025-01-23T17:58:38-04:00"
     },
     {
       "name": "Géocodeur",
@@ -48,7 +48,7 @@
         }
       ],
       "isGristLabsMaintained": false,
-      "lastUpdatedAt": "2024-01-01T17:58:38-04:00"
+      "lastUpdatedAt": "2025-01-23T17:58:38-04:00"
     },
     {
       "name": "Codes SIREN",
@@ -65,11 +65,11 @@
         }
       ],
       "isGristLabsMaintained": false,
-      "lastUpdatedAt": "2024-01-01T17:58:38-04:00"
+      "lastUpdatedAt": "2025-01-23T17:58:38-04:00"
     },
     {
       "name": "Bouton d'action",
-      "url": "https://gristlabs.github.io/grist-widget/actionbutton/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/actionbutton/index.html",
       "widgetId": "@gristlabs/widget-actionbutton",
       "published": true,
       "accessLevel": "full",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Calendrier",
-      "url": "https://gristlabs.github.io/grist-widget/calendar/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/calendar/index.html",
       "widgetId": "@gristlabs/widget-calendar",
       "published": true,
       "accessLevel": "full",
@@ -99,7 +99,7 @@
           "cdn.jsdelivr.net"
         ],
         "entrypoints": [
-          "https://gristlabs.github.io/grist-widget/calendar/i18n/"
+          "https://gristgouv.github.io/gristlabs-widgets/calendar/i18n/"
         ]
       },
       "description": "Afficher des lignes comme évènements dans un calendrier. Choisissez entre quotidien, mensuel, et annuel.",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Graphiques avancés",
-      "url": "https://gristlabs.github.io/grist-widget/chart/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/chart/index.html",
       "widgetId": "@gristlabs/widget-chart",
       "published": true,
       "accessLevel": "full",
@@ -130,7 +130,7 @@
     },
     {
       "name": "Copier dans le presse-papier",
-      "url": "https://gristlabs.github.io/grist-widget/clipboard/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/clipboard/index.html",
       "widgetId": "@gristlabs/widget-clipboard",
       "published": true,
       "accessLevel": "read table",
@@ -147,7 +147,7 @@
     },
     {
       "name": "Dropbox Embedder",
-      "url": "https://gristlabs.github.io/grist-widget/dropbox-embed/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/dropbox-embed/index.html",
       "widgetId": "@gristlabs/dropbox-embed",
       "published": false,
       "accessLevel": "read table",
@@ -164,7 +164,7 @@
     },
     {
       "name": "Flashcards",
-      "url": "https://gristlabs.github.io/grist-widget/flashcards/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/flashcards/index.html",
       "widgetId": "@gristlabs/flashcards",
       "published": false,
       "accessLevel": "read table",
@@ -181,7 +181,7 @@
     },
     {
       "name": "Inspecter la ligne",
-      "url": "https://gristlabs.github.io/grist-widget/inspect/onRecord.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/inspect/onRecord.html",
       "widgetId": "@gristlabs/widget-inspect#onRecord",
       "published": true,
       "accessLevel": "read table",
@@ -198,7 +198,7 @@
     },
     {
       "name": "Inspecter la table",
-      "url": "https://gristlabs.github.io/grist-widget/inspect/onRecords.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/inspect/onRecords.html",
       "widgetId": "@gristlabs/widget-inspect#onRecords",
       "published": true,
       "accessLevel": "read table",
@@ -215,7 +215,7 @@
     },
     {
       "name": "Inspecter les options",
-      "url": "https://gristlabs.github.io/grist-widget/inspect/onOptions.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/inspect/onOptions.html",
       "widgetId": "@gristlabs/widget-inspect#onOptions",
       "published": true,
       "renderAfterReady": true,
@@ -231,7 +231,7 @@
     },
     {
       "name": "Inspecter l'API",
-      "url": "https://gristlabs.github.io/grist-widget/inspect/api.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/inspect/api.html",
       "widgetId": "@gristlabs/widget-inspect#api",
       "published": true,
       "renderAfterReady": true,
@@ -247,7 +247,7 @@
     },
     {
       "name": "Factures",
-      "url": "https://gristlabs.github.io/grist-widget/invoices",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/invoices",
       "widgetId": "@gristlabs/widget-invoices",
       "published": true,
       "accessLevel": "read table",
@@ -264,7 +264,7 @@
     },
     {
       "name": "Notebook JupyterLite",
-      "url": "https://gristlabs.github.io/grist-widget/jupyterlite/lab/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/jupyterlite/lab/index.html",
       "widgetId": "@gristlabs/widget-jupyterlite",
       "published": true,
       "accessLevel": "read table",
@@ -280,7 +280,7 @@
     },
     {
       "name": "Carte",
-      "url": "https://gristlabs.github.io/grist-widget/map/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/map/index.html",
       "widgetId": "@gristlabs/widget-map#map",
       "published": true,
       "accessLevel": "read table",
@@ -297,7 +297,7 @@
     },
     {
       "name": "Markdown",
-      "url": "https://gristlabs.github.io/grist-widget/markdown",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/markdown",
       "widgetId": "@gristlabs/widget-markdown",
       "published": true,
       "accessLevel": "full",
@@ -314,7 +314,7 @@
     },
     {
       "name": "Bloc-note",
-      "url": "https://gristlabs.github.io/grist-widget/notepad",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/notepad",
       "widgetId": "@gristlabs/widget-notepad",
       "published": true,
       "accessLevel": "full",
@@ -331,7 +331,7 @@
     },
     {
       "name": "Tableau croisé dynamique",
-      "url": "https://gristlabs.github.io/grist-widget/pivottable/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/pivottable/index.html",
       "widgetId": "@gristlabs/widget-pivottable",
       "published": true,
       "accessLevel": "read table",
@@ -347,7 +347,7 @@
     },
     {
       "name": "Print labels",
-      "url": "https://gristlabs.github.io/grist-widget/printlabels/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/printlabels/index.html",
       "widgetId": "@gristlabs/widget-printlabels",
       "published": false,
       "accessLevel": "read table",
@@ -364,7 +364,7 @@
     },
     {
       "name": "Purchase orders",
-      "url": "https://gristlabs.github.io/grist-widget/purchase-orders",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/purchase-orders",
       "widgetId": "@gristlabs/widget-purchase-orders",
       "published": false,
       "accessLevel": "read table",
@@ -381,7 +381,7 @@
     },
     {
       "name": "QR Code",
-      "url": "https://gristlabs.github.io/grist-widget/qrcode/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/qrcode/index.html",
       "widgetId": "@gristlabs/widget-qrcode",
       "published": true,
       "accessLevel": "read table",
@@ -397,7 +397,7 @@
     },
     {
       "name": "Vue HTML",
-      "url": "https://gristlabs.github.io/grist-widget/renderhtml/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/renderhtml/index.html",
       "widgetId": "@gristlabs/widget-renderhtml",
       "published": true,
       "accessLevel": "read table",
@@ -414,7 +414,7 @@
     },
     {
       "name": "Lecteur vidéo",
-      "url": "https://gristlabs.github.io/grist-widget/rendervideo/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/rendervideo/index.html",
       "widgetId": "@gristlabs/widget-rendervideo",
       "published": true,
       "accessLevel": "read table",
@@ -431,7 +431,7 @@
     },
     {
       "name": "Visualiseur d'image",
-      "url": "https://gristlabs.github.io/grist-widget/viewer/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/viewer/index.html",
       "widgetId": "@gristlabs/widget-viewer",
       "published": true,
       "accessLevel": "read table",
@@ -448,7 +448,7 @@
     },
     {
       "name": "Custom widget builder",
-      "url": "https://gristlabs.github.io/grist-widget/custom-widget-builder/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/custom-widget-builder/index.html",
       "widgetId": "@berhalak/custom-widget-builder",
       "published": true,
       "accessLevel": "none",
@@ -465,7 +465,7 @@
     },
     {
       "name": "Drop-down Widget",
-      "url": "https://gristlabs.github.io/grist-widget/drop-down/index.html",
+      "url": "https://gristgouv.github.io/gristlabs-widgets/drop-down/index.html",
       "widgetId": "@gristlabs/widget-drop-down",
       "published": true,
       "accessLevel": "read table",

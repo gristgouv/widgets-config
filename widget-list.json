@@ -479,5 +479,21 @@
       ],
       "isGristLabsMaintained": false,
       "lastUpdatedAt": "2024-10-09T14:36:40+02:00"
+    },
+    {
+      "name": "Tableau croisé dynamique",
+      "url": "https://gristgouv.github.io/mae-custom-widgets/batch-emailing/index.html",
+      "widgetId": "@gristgouv/batch-emailing",
+      "published": true,
+      "accessLevel": "read table",
+      "renderAfterReady": true,
+      "description": "Envoyez des mails facilement à une liste de contacts gérés dans Grist.",
+      "authors": [
+        {
+          "name": "Amandine Dugrain",
+          "url": "https://github.com/agrippaharfleur"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:58:38-04:00"
     }
   ]

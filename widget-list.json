@@ -546,5 +546,21 @@
         }
       ],
       "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Organigramme",
+      "url": "https://gristgouv.github.io/asp-plugins/organigramme/index.html",
+      "widgetId": "@gristgouv/organigramme",
+      "published": true,
+      "accessLevel": "read table",
+      "renderAfterReady": true,
+      "description": "Permet de visualiser un organigramme sur une table GRIST",
+      "authors": [
+        {
+          "name": "jtab87",
+          "url": "https://github.com/jtab87"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
     }
   ]

@@ -494,6 +494,57 @@
           "url": "https://github.com/agrippaharfleur"
         }
       ],
-      "lastUpdatedAt": "2025-06-13T17:58:38-04:00"
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Kanban",
+      "url": "https://gristgouv.github.io/grist-widget-varamil/kanban/index.html",
+      "widgetId": "@gristgouv/kanban",
+      "published": true,
+      "accessLevel": "full",
+      "renderAfterReady": true,
+      "description": "Gestion de taches avec un tableau Kanban. Permet de glisser-déposer des cartes entre les colonnes.",
+      "authors": [
+        {
+          "name": "Céline Delval"
+        },
+        {
+          "name": "Varamil",
+          "url": "https://github.com/Varamil"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Filtre menu déroulant",
+      "url": "https://gristgouv.github.io/grist-widget-varamil/drop-down-filter/index.html",
+      "widgetId": "@gristgouv/drop-down-filter",
+      "published": true,
+      "accessLevel": "read table",
+      "renderAfterReady": true,
+      "description": "Simple menu déroulant permetant de filtrer d'autres widgets par rapport à la sélection",
+      "authors": [
+        {
+          "name": "Varamil",
+          "url": "https://github.com/Varamil"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Messages",
+      "url": "https://gristgouv.github.io/grist-widget-varamil/Messages/index.html",
+      "widgetId": "@gristgouv/messages",
+      "published": true,
+      "accessLevel": "full",
+      "renderAfterReady": true,
+      "description": "Message est un widget pour afficher une interface de chat simple, stockant tous les messages dans une ligne sans faire appel à une table supplémentaire.",
+      "authors": [
+        {
+          "name": "Varamil",
+          "url": "https://github.com/Varamil"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
     }
   ]

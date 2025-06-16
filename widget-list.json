@@ -481,7 +481,7 @@
       "lastUpdatedAt": "2024-10-09T14:36:40+02:00"
     },
     {
-      "name": "Tableau croisé dynamique",
+      "name": "Envoi de mails en lot",
       "url": "https://gristgouv.github.io/mae-custom-widgets/batch-emailing/index.html",
       "widgetId": "@gristgouv/batch-emailing",
       "published": true,
@@ -503,7 +503,7 @@
       "published": true,
       "accessLevel": "full",
       "renderAfterReady": true,
-      "description": "Gestion de taches avec un tableau Kanban. Permet de glisser-déposer des cartes entre les colonnes.",
+      "description": "Gestion de tâches avec un tableau Kanban. Permet de glisser-déposer des cartes entre les colonnes.",
       "authors": [
         {
           "name": "Céline Delval"
@@ -538,7 +538,7 @@
       "published": true,
       "accessLevel": "full",
       "renderAfterReady": true,
-      "description": "Message est un widget pour afficher une interface de chat simple, stockant tous les messages dans une ligne sans faire appel à une table supplémentaire.",
+      "description": "Messages est un widget pour afficher une interface de chat simple, stockant tous les messages dans une ligne sans faire appel à une table supplémentaire.",
       "authors": [
         {
           "name": "Varamil",

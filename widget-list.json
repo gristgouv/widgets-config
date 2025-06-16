@@ -479,5 +479,88 @@
       ],
       "isGristLabsMaintained": false,
       "lastUpdatedAt": "2024-10-09T14:36:40+02:00"
+    },
+    {
+      "name": "Envoi de mails en lot",
+      "url": "https://gristgouv.github.io/mae-custom-widgets/batch-emailing/index.html",
+      "widgetId": "@gristgouv/batch-emailing",
+      "published": true,
+      "accessLevel": "read table",
+      "renderAfterReady": true,
+      "description": "Envoyez des mails facilement à une liste de contacts gérés dans Grist.",
+      "authors": [
+        {
+          "name": "Amandine Dugrain",
+          "url": "https://github.com/agrippaharfleur"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Kanban",
+      "url": "https://gristgouv.github.io/grist-widget-varamil/kanban/index.html",
+      "widgetId": "@gristgouv/kanban",
+      "published": true,
+      "accessLevel": "full",
+      "renderAfterReady": true,
+      "description": "Gestion de tâches avec un tableau Kanban. Permet de glisser-déposer des cartes entre les colonnes.",
+      "authors": [
+        {
+          "name": "Céline Delval"
+        },
+        {
+          "name": "Varamil",
+          "url": "https://github.com/Varamil"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Filtre menu déroulant",
+      "url": "https://gristgouv.github.io/grist-widget-varamil/drop-down-filter/index.html",
+      "widgetId": "@gristgouv/drop-down-filter",
+      "published": true,
+      "accessLevel": "read table",
+      "renderAfterReady": true,
+      "description": "Simple menu déroulant permetant de filtrer d'autres widgets par rapport à la sélection",
+      "authors": [
+        {
+          "name": "Varamil",
+          "url": "https://github.com/Varamil"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Messages",
+      "url": "https://gristgouv.github.io/grist-widget-varamil/Messages/index.html",
+      "widgetId": "@gristgouv/messages",
+      "published": true,
+      "accessLevel": "full",
+      "renderAfterReady": true,
+      "description": "Messages est un widget pour afficher une interface de chat simple, stockant tous les messages dans une ligne sans faire appel à une table supplémentaire.",
+      "authors": [
+        {
+          "name": "Varamil",
+          "url": "https://github.com/Varamil"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Organigramme",
+      "url": "https://gristgouv.github.io/asp-plugins/organigramme/index.html",
+      "widgetId": "@gristgouv/organigramme",
+      "published": true,
+      "accessLevel": "read table",
+      "renderAfterReady": true,
+      "description": "Permet de visualiser un organigramme sur une table GRIST",
+      "authors": [
+        {
+          "name": "jtab87",
+          "url": "https://github.com/jtab87"
+        }
+      ],
+      "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
     }
   ]

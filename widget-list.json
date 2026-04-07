@@ -562,5 +562,20 @@
         }
       ],
       "lastUpdatedAt": "2025-06-13T17:00:00-00:00"
+    },
+    {
+      "name": "Formulaire interne",
+      "url": "https://gristgouv.github.io/grist-cw-intra-form/",
+      "widgetId": "@gristgouv/grist-cw-intra-form",
+      "published": true,
+      "accessLevel": "full",
+      "renderAfterReady": true,
+      "description": "Créez des formulaires privés dans Grist !",
+      "authors": [
+        {
+          "name": "maluhialoha",
+          "url": "https://github.com/maluhialoha"
+        }
+      ]
     }
   ]

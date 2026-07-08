@@ -594,7 +594,7 @@
     ]
   },
   {
-    "name": "Scatterplot D3.js",
+    "name": "Nuage de points D3.js",
     "url": "https://gristgouv.github.io/drane-orleans-tours-grist-widgets/d3js-scatterplot.html",
     "widgetId": "@gristgouv/d3js-scatterplot",
     "published": true,
@@ -624,7 +624,7 @@
     ]
   },
   {
-    "name": "Bar Chart D3.js",
+    "name": "Diagramme en barres D3.js",
     "url": "https://gristgouv.github.io/drane-orleans-tours-grist-widgets/d3js-bar-chart.html",
     "widgetId": "@gristgouv/d3js-bar-chart",
     "published": true,

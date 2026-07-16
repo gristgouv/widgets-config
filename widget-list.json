@@ -579,7 +579,7 @@
     ]
   },
   {
-    "name": "Assistant Dataviz D3.js",
+    "name": "Assistant Data Visualisation",
     "url": "https://gristgouv.github.io/drane-orleans-tours-grist-widgets/d3js-assistant.html",
     "widgetId": "@gristgouv/d3js-assistant",
     "published": true,
@@ -588,10 +588,11 @@
     "description": "Parcours guidé en 2 étapes pour aider à choisir la dataviz adaptée (bar chart, donut, scatterplot) selon votre intention et la structure de vos données. Fournit l'URL du widget recommandé et des conseils de configuration.",
     "authors": [
       {
-        "name": "MikeLeYeti",
-        "url": "https://github.com/mikeleyeti"
+        "name": "Mikaël Le Mentec",
+        "url": "https://forge.apps.education.fr/le-mentecmikael"
       }
-    ]
+    ],
+    "lastUpdatedAt": "2027-07-16T11:00:00-00:00"
   },
   {
     "name": "Nuage de points D3.js",
@@ -603,10 +604,11 @@
     "description": "Nuage de points (D3.js) configurable : choix des axes X/Y numériques, coloration par catégorie, titre/sous-titre et noms d'axes personnalisables, tooltip au survol.",
     "authors": [
       {
-        "name": "MikeLeYeti",
-        "url": "https://github.com/mikeleyeti"
+        "name": "Mikaël Le Mentec",
+        "url": "https://forge.apps.education.fr/le-mentecmikael"
       }
-    ]
+    ],
+    "lastUpdatedAt": "2027-07-16T11:00:00-00:00"
   },
   {
     "name": "Donut D3.js",
@@ -618,10 +620,11 @@
     "description": "Graphique donut (D3.js) configurable : choix de la colonne catégorie, agrégation par somme d'une colonne numérique ou par comptage de lignes, titre/sous-titre, rayon intérieur et espacement réglables, tooltip avec pourcentage.",
     "authors": [
       {
-        "name": "MikeLeYeti",
-        "url": "https://github.com/mikeleyeti"
+        "name": "Mikaël Le Mentec",
+        "url": "https://forge.apps.education.fr/le-mentecmikael"
       }
-    ]
+    ],
+    "lastUpdatedAt": "2027-07-16T11:00:00-00:00"
   },
   {
     "name": "Diagramme en barres D3.js",
@@ -633,10 +636,11 @@
     "description": "Diagramme en barres (D3.js) configurable : modes \"par lignes\" ou \"pivot\" (chaque colonne devient une barre), orientation verticale/horizontale, tri par valeur ou par nom, étiquettes de valeur, palettes daltoniennes et motifs sur les barres.",
     "authors": [
       {
-        "name": "MikeLeYeti",
-        "url": "https://github.com/mikeleyeti"
+        "name": "Mikaël Le Mentec",
+        "url": "https://forge.apps.education.fr/le-mentecmikael"
       }
-    ]
+    ],
+    "lastUpdatedAt": "2027-07-16T11:00:00-00:00"
   },
   {
     "name": "Radar D3.js",
@@ -648,9 +652,10 @@
     "description": "Diagramme radar / toile d'araignée (D3.js) : choix des colonnes numériques utilisées comme axes, une polygone par ligne, échelle commune ou par axe, palettes daltoniennes, styles de trait et formes de points pour distinguer les séries.",
     "authors": [
       {
-        "name": "MikeLeYeti",
-        "url": "https://github.com/mikeleyeti"
+        "name": "Mikaël Le Mentec",
+        "url": "https://forge.apps.education.fr/le-mentecmikael"
       }
-    ]
+    ],
+    "lastUpdatedAt": "2027-07-16T11:00:00-00:00"
   }
 ]

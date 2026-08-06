@@ -657,5 +657,21 @@
       }
     ],
     "lastUpdatedAt": "2027-07-16T11:00:00-00:00"
+  },
+  {
+    "name": "Vue Groupée",
+    "url": "https://gristgouv.github.io/grist-widget-grouped-view/",
+    "widgetId": "@gristgouv/grouped-view",
+    "published": true,
+    "accessLevel": "read table",
+    "renderAfterReady": true,
+    "description": "Vue groupée avec accordéon pliable. Regroupe les enregistrements par n'importe quelle colonne, avec pliage/dépliage, couleurs stables et tri.",
+    "authors": [
+      {
+        "name": "Maxime Lacoste",
+        "url": "https://github.com/maximelacoste"
+      }
+    ],
+    "lastUpdatedAt": "2026-08-06T16:57:45+02:00"
   }
 ]

@@ -660,7 +660,7 @@
   },
   {
     "name": "Vue Groupée",
-    "url": "https://gristgouv.github.io/grist-widget-grouped-view/",
+    "url": "https://gristgouv.github.io/grist-widget-grouped-view/widget_groupes.html",
     "widgetId": "@gristgouv/grouped-view",
     "published": true,
     "accessLevel": "read table",

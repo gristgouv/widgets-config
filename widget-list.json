@@ -659,7 +659,7 @@
     "lastUpdatedAt": "2026-07-16T11:00:00-00:00"
   },
   {
-    "name": "Vue Groupée",
+    "name": "Vue Accordéon",
     "url": "https://gristgouv.github.io/grist-widget-grouped-view/widget_groupes.html",
     "widgetId": "@gristgouv/grouped-view",
     "published": true,
